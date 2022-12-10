@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Report()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Report\r\n
+comment1.params=
+comment1.target=void\ create()
+comment2.params=
+comment2.target=void\ read()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=
+comment4.target=void\ delete()
+numComments=5
